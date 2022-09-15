@@ -1,0 +1,170 @@
+
+
+h2{
+    padding-bottom: 20px;
+    font-size: 2.5rem;
+}
+ul{
+    margin-top: 0;
+}
+
+
+.nav-bar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: right;
+    
+    background-color: #66BFBF;
+    
+}
+
+.link:hover{
+   color: #ffffff;
+}
+
+
+
+a{
+     list-style-type: none;
+     display: inline-block;
+     margin: 10px 20px;
+     text-decoration: none;
+     font-size: 1.4rem;
+
+     
+    
+    
+}
+a.link{
+    color: #551a8b;
+}
+
+body{
+    padding-top: 0 5% 5%;
+    margin: 0 0 10px ;
+   
+    text-align: center;
+    background-color:#EAF6F6 ;
+    
+    font-family: cursive;
+    color: #40514E;
+       
+}
+p{
+    font-family:  Helvetica, sans-serif;
+    font-size: 1.5rem;
+    line-height: 2;
+    
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 3.1rem;
+    color: #66BFBF;
+    
+}
+hr{
+    border: dotted #EAF6F6 6px ;
+    border-bottom: none;
+    width: 20%;
+}
+.btn {
+    background: #3498db;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+   
+  }
+  .btn:hover {
+    background: #66BFBF;
+    text-decoration: none;
+  }
+
+
+.space{
+     margin: 30p;
+
+}
+
+.two{
+    position: absolute;
+    bottom: 40%;
+    right: 20%;
+
+}
+
+.cloud-first{
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+.cloud-second{
+    position: absolute;
+    top: 50px;
+    right: 20%;
+}
+.mountain{
+    padding: 2%;
+    width: 50%;
+    margin-bottom: 2rem;
+}
+
+.skills{
+    display:inline-block;
+   
+    }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.skill-1{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.skill-2{
+    width: 20%;
+    float: right;
+    margin-right:30px ;
+}
+.coder{
+    width: 15%;
+    margin-top: 5rem;
+   
+}
+.middle-container{
+    background:white;
+   
+}
+.contact-me{
+    background-color: white;
+    padding: 3rem;
+    }
+.bottom-container{
+    background-color:#66BFBF;
+    padding:2.4rem 0;
+    
+}
+.intro{
+    width: 60%;
+    margin: auto;
+}
+.copyright{
+    color: #EAF6F6;
+    padding: 30px 0 0;
+    margin: 1.5rem 0 0;
+}
+.social-media{
+     text-decoration:none ;
+     padding: 1rem;
+}
+.social-media:hover{
+    color: #EAF6F6;
+}
+
+
+
